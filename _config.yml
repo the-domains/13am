@@ -1,6 +1,6 @@
 name: 13am
 favicon: null
-layout_spectrum: 0.99732
+layout_spectrum: 0
 typography_spectrum: 0.31717
 cta:
   domain: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#e8e8e8'
-    - '#0f0f0f'
-    - '#737373'
-    - '#505050'
-    - '#a3a3a3'
-  brandStrength: 0
-  lightness: 0.5
-  saturation: 0.5
+    - '#fdfdfd'
+    - '#7cb177'
+    - '#accda9'
+    - '#dce8db'
+    - '#aaaaaa'
+  brandStrength: 0.5
+  lightness: 1
+  saturation: 0.875
   rhythmicContrast: 0.75
 purpose: []
