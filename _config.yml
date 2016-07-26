@@ -1,7 +1,7 @@
 name: 13am
 favicon: null
-layout_spectrum: 0
-typography_spectrum: 0.31717
+layout_spectrum: 1
+typography_spectrum: 0.31992
 cta:
   domain: null
   bucket: null
